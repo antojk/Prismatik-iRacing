@@ -1,4 +1,4 @@
-# iRacing Plugin for Prismatik
+# Assetto Corsa Plugin for Prismatik
 ![Prismatik-iRacing-Feature](https://i.imgur.com/FN3yx5b.jpg)
 This plugin allows you to visualize data from iRacing with an ambilight. It connects Prismatik to the iRacing API, enabling you to visualize information from the simulation in real-time. In the image above, the ambilight is acting as a shift light.
 
